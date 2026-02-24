@@ -9,13 +9,13 @@ Se enfoca en la creación de programa funcional que demuestre que la tecnología
 •	 Diseño de un panel básico de visualización para que el usuario final consulte los tiempos de espera.
 
 # REQUISITOS
--PYTHON 
--GIT
+- PYTHON 
+- GIT
 
 # INSTRUCCIONES DE EJECUCION 
-1.Ejecutar el codigo
+1. Ejecutar el codigo
 
 # Autores
--Diaz Palacion Yamzin Carolina 
--Lopez Macias Roberto
--Razo Escalera Paola Jacqueline 
+- Diaz Palacion Yamzin Carolina 
+- Lopez Macias Roberto
+- Razo Escalera Paola Jacqueline 
